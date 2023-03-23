@@ -12,7 +12,7 @@ words = ["python", "programmierung", "computer", "hangman", "spiel"]
 word = random.choice(words)
 
 # Anzahl der Versuche
-attempts = 6
+attempts = 20
 
 # Bisher erratene Buchstaben (initial leer)
 guessed_letters = []
@@ -58,3 +58,4 @@ else:
 print()
 print("Spielende")
 print()
+input("Zum beenden beliebige Taste drücken.")

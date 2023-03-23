@@ -49,3 +49,4 @@ with open(new_filename, "w") as new_file:
 print()
 print("Programmende")
 print()
+input("Zum beenden beliebige Taste drücken.")
