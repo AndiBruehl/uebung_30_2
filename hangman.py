@@ -58,3 +58,4 @@ else:
 print()
 print("Spielende")
 print()
+input("Zum beenden beliebige Taste drücken.")

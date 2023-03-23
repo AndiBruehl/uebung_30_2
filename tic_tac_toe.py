@@ -109,3 +109,4 @@ while spiel_aktiv:
 print()
 print("Spielende")
 print()
+input("Zum beenden beliebige Taste drücken.")
